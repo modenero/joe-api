@@ -30,6 +30,17 @@ yarn start
 ---
 ---
 
+## Endpoints (Extended)
+
+> Trader Joe is looking for a new capable API. The prize pool, which encourages a __"TVL, APR & APY API for All Pools, Farms and Lending Markets on Trader Joe",__ also totals $30,000. Right now, Trader Joe’s TVL, APR, and APY are all calculated on the frontend. Trader Joe is looking for a solution to move this to a backend, which can be accessed by the frontend via an API. [[source](https://traderjoe-xyz.medium.com/trader-joe-joins-the-moralis-avalanche-hackathon-ac361ef87d82)]
+
+---
+
+WIP
+
+---
+---
+
 ## License
 
 [MIT](LICENSE)
